@@ -45,8 +45,8 @@ en comunicarse con nosotros.';
                 <?php echo strftime("%d/%B/%Y")?>
                 <pre>
                     <b>Contacto:</b>
-                    "número de contacto"
-                    "corre_contacto"
+                    "número_contacto"
+                    "correo_contacto"
                     "página web de empresa"
                 </pre>
             </td>
