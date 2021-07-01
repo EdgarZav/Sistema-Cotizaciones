@@ -45,9 +45,9 @@ en comunicarse con nosotros.';
                 <?php echo strftime("%d/%B/%Y")?>
                 <pre>
                     <b>Contacto:</b>
-                    8118877009
-                    oskar@teldyr.com.mx
-                    www.teldyr.com.mx
+                    "número de contacto"
+                    "corre_contacto"
+                    "página web de empresa"
                 </pre>
             </td>
         </tr>
