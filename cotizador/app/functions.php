@@ -514,13 +514,13 @@ function send_mail($data){
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'edgarzavaala@gmail.com';
-        $mail->Password = 'Z4val4098.';
+        $mail->Username = 'tu_corre';
+        $mail->Password = 'tu_password';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         //Recipients
-        $mail->setFrom('edgarzavaala@gmail.com', 'APP_NAME');
+        $mail->setFrom('tu_correo', 'APP_NAME');
         $mail->addAddress($data['email'], empty($data['name']) ? null : $data['name']);
         $mail->Subject = $data['subject']; //asunto
         $mail->msgHTML(get_module(MODULES.'email_template', $data));
