@@ -6,3 +6,12 @@ El sistema consiste en agregar productos, marca, precio, información del client
 
 Si se llega a utilizar este proyecto, cambiar los datos de la empresa a la que se le vaya a implementar el sistema y agregar los campos necesarios si se quiere ingresar mas información.
 Agregar mas campos a la interfaz gráfica conlleva a editar los métodos que realizan cierta acción (agregar, editar, eliminar).
+
+
+
+Tecnologías necesarias:
+XAMPP
+Composer
+PHPMailer
+Waitme Js (GitHub)
+Dompdf
