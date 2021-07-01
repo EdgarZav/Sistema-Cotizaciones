@@ -10,8 +10,8 @@ Agregar mas campos a la interfaz gráfica conlleva a editar los métodos que rea
 
 
 Tecnologías necesarias:
-XAMPP
-Composer
-PHPMailer
-Waitme Js (GitHub)
+XAMPP,
+Composer,
+PHPMailer,
+Waitme Js (GitHub),
 Dompdf
